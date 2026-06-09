@@ -1,5 +1,7 @@
 body {
-  background: #ede2d4;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/180/453/original/pexels-leo-wharfe-398664032-15349048.jpg?1781001006");
+  background-size: cover;
+  background-position: center;
   font-family: "Quicksand", sans-serif;
 }
 a {
